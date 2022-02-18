@@ -1,6 +1,6 @@
 #Proyecto Spring-React
 
-Primera parte del proyecto final en donde se realiza el Backend con Spring Boot
+Primera parte del proyecto en donde se realiza el Backend con Spring Boot:
 
 > Patron de diseño: Repository
 >
@@ -21,3 +21,13 @@ Primera parte del proyecto final en donde se realiza el Backend con Spring Boot
 > Postman Para testear el correcto funcionamiento de las rutas
 >
 > Lombok
+
+Segunda parte del proyecto en donde se realiza el Frontend con React:
+
+> Axios - Para las peticiones
+>
+> Custom Hooks
+>
+> Hooks
+
+Queda pendiente modificar aun mas el frontend, pero el proposito general de las peticiones esta completo.
