@@ -1,10 +1,11 @@
 import React from 'react'
+import Personas from './components/Personas';
 
 const App = () =>
 {
     return(
       <React.Fragment>
-        <h2>Estructura Inicial</h2>
+        <Personas/>
       </React.Fragment>
     );
 }
